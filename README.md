@@ -1,2 +1,3 @@
-# portfolio_dashboard_2_FE
-# portfolio_dashboard_2_FE
+# New files for Full Stack FE for user notes
+
+
